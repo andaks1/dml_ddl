@@ -41,7 +41,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![db_import](img/zadanie1/01_03.png)
 
 <details>
+
 <summary>Простыня команд:</summary>
+
 ```SQL
 bash-4.4# mysql -u sys_temp -p
 Enter password: 
@@ -167,6 +169,7 @@ mysql> show tables;
 23 rows in set (0.00 sec)
 
 mysql> 
+
 </details>
 
 ```
