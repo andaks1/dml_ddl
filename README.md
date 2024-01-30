@@ -168,7 +168,9 @@ mysql> show tables;
 
 mysql> 
 </details>
+
 ```
+
 ---
 
 ### Задание 2
