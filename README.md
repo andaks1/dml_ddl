@@ -170,7 +170,7 @@ mysql> show tables;
 
 
 mysql> 
-
+<details>
 </details>
 ```
 
